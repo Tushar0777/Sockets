@@ -51,8 +51,8 @@ server.listen(5000, () => {
 ### 2. client.js
 This file contains the TCP client logic.
 
-js
-```
+
+```js
 const net = require('net');
 const readline = require('readline');
 
